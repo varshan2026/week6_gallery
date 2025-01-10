@@ -14,4 +14,4 @@ An elegant and responsive image gallery built using **HTML**, **CSS**, and **Jav
 - **JavaScript**: Modal functionality and event handling.
 
 ## Live
-Link: 
+Link: link
