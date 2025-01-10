@@ -14,4 +14,4 @@ An elegant and responsive image gallery built using **HTML**, **CSS**, and **Jav
 - **JavaScript**: Modal functionality and event handling.
 
 ## Live
-Link: link
+Link: [Image Gallery](https://varshan2026.github.io/week6_gallery/)
