@@ -1,4 +1,4 @@
-# Image Gallery with Centered Modal Display
+# Image Gallery
 An elegant and responsive image gallery built using **HTML**, **CSS**, and **JavaScript**. This project displays images in a clean layout and allows users to click on any image to view it in the center of the screen with a backdrop effect.
 
 ## Features
